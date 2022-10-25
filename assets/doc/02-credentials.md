@@ -17,7 +17,7 @@ The variables defined here are used in the role `mk_ansible_roles.subscribe_rhn`
 
 1. Click `Add`
 2. Enter the following:
-    - `Name`: SAP S-User
+    - `Name`: RHN activation
     - Input Configuration
       ```yaml
       fields:
